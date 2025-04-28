@@ -1,8 +1,8 @@
+import Banner from "./components/Banner"
+
 function App() {
   return (
-    <h1>
-      Olá Mundo
-    </h1>
+    <Banner src="./Imagens/Banner Desktop.png" alt="Banner"/>
   )
 }
 
